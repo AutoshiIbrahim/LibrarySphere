@@ -59,10 +59,16 @@
                             <a class="nav-link" href="UpdateMemberDetails.aspx"><b>Member</b></a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="ViewBooks.aspx"><b>View Book</b></a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="AdminBookinventory.aspx"><b>Book Inventory</b></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><b>IssueBook</b></a>
+                            <a class="nav-link" href="bookIssueReturn.aspx"><b>Issue/Return</b></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Report.aspx"><b>Report</b></a>
                         </li>
                     </ul>
                 </div>
